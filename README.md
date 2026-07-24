@@ -1,7 +1,7 @@
 # swamp-todoist
 
 [swamp](https://swamp.club) extension `@mgreten/todoist` — Todoist task management
-integration with task and project CRUD and filter-based sync.
+integration with task CRUD, project synchronization, and filter-based sync.
 
 Extension documentation: [extensions/models/README.md](extensions/models/README.md)
 
